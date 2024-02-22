@@ -13,7 +13,11 @@ int main()
 
     c = a * b;
 
-    cout << "result: " << c;
+    cout << "result multiplication: " << c;
+   
+    c = a + b;
+
+    cout << "result sum: " << c;
 
     return 0;
 }
