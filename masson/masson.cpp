@@ -17,7 +17,7 @@ int main()
    
     c = a + b;
 
-    cout << "result sum: " << c;
+    cout << " result sum: " << c;
 
     return 0;
 }
