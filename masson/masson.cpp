@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main()
 {
     
@@ -13,11 +12,13 @@ int main()
 
     c = a * b;
 
-    cout << "result multiplication: " << c;
+    cout << "result multiplication: " << c << endl;
    
     c = a + b;
 
-    cout << " result sum: " << c;
+    cout << "result sum: " << c << endl;
+
+    cout << "amogus";
 
     return 0;
 }
