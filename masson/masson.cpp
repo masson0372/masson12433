@@ -20,5 +20,8 @@ int main()
 
     cout << "amogus";
 
+    cout << "abobus";
+    //глебобус
+
     return 0;
 }
