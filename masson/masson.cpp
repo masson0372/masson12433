@@ -22,6 +22,6 @@ int main()
 
     cout << "abobus";
     //глебобус
-
+    //123124124
     return 0;
 }
